@@ -4,6 +4,8 @@
 
 ### Tecnologias que estou aprendendno:
 ![image](https://github.com/vitorcvelloso/vitorcvelloso/assets/106841780/10494054-5a54-4760-89f2-ac98261e9cc3)
+![image](https://github.com/vitorcvelloso/vitorcvelloso/assets/106841780/6f6d5f15-eb11-4c94-a98c-e2f0b6b03c73)
+
 
 ## Encontre-me:
 ![image](https://github.com/vitorcvelloso/vitorcvelloso/assets/106841780/65c9f063-44a5-4b74-9f38-36c31cc3c845)
