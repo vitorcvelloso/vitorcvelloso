@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/vitorcvelloso/vitorcvelloso/assets/106841780/bb8ff812-4e8b-4063-838a-1a2197be7f1e" width="370px" height="420px">
 
-## Olá mundo! Estou fazendo um curso de programação web full-stack no instituto da oportunidade
+## Olá mundo! Estou fazendo um curso de programação web full-stack
 
 ### Tecnologias que estou aprendendno:
 ![image](https://github.com/vitorcvelloso/vitorcvelloso/assets/106841780/10494054-5a54-4760-89f2-ac98261e9cc3)
